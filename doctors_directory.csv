@@ -1,0 +1,6 @@
+Doctor_ID,Doctor_Name,Specialty,Consultation_Days,Available_Slots,Room_No,Consultation_Fee
+DOC01,Dr. Arvind Sharma,Cardiology,"Mon, Wed, Fri","09:00 AM, 10:00 AM, 11:30 AM",OPD Block A - 101,800
+DOC02,Dr. Meera Iyer,Paediatrics,Mon to Sat,"10:00 AM, 11:00 AM, 02:00 PM, 03:00 PM",OPD Block A - 105,500
+DOC03,Dr. Rajesh Patel,Orthopaedics,"Tue, Thu, Sat","09:30 AM, 11:00 AM, 12:30 PM",OPD Block B - 202,700
+DOC04,Dr. Sunita Rao,Obstetrics & Gynaecology,"Mon, Tue, Thu","10:30 AM, 01:00 PM, 03:30 PM",OPD Block A - 108,600
+DOC05,Dr. Vikram Malhotra,Neurology,"Wed, Fri","11:00 AM, 02:00 PM, 04:00 PM",OPD Block B - 210,900

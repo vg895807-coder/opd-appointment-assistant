@@ -1,0 +1,3 @@
+Booking_ID,Patient_Name,Patient_Age,Contact_Phone,Doctor_Name,Specialty,Appointment_Date,Appointment_Slot,Status
+SH-2026-1001,Rahul Verma,42,+91-98765-01010,Dr. Arvind Sharma,Cardiology,2026-09-15,09:00 AM,Confirmed
+SH-2026-1002,Ananya Deshmukh,28,+91-98765-02020,Dr. Meera Iyer,Paediatrics,2026-09-16,10:00 AM,Confirmed
